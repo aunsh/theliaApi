@@ -24,7 +24,7 @@ class TheliaApi extends PluginsClassiques
     
     
     
-    private static $realm = 'Coffreo';
+    private static $realm = '';
     
     public function __construct($name = 'theliaApi') 
     {
